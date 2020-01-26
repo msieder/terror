@@ -1,0 +1,8 @@
+# data is too big to be uploaded to github
+/Data/globalterrorismdb_0718dist.csv
+
+#Pycharm
+.idea/*
+
+#MacOS
+.DS_Store
