@@ -1,0 +1,7 @@
+Download terrorism dataset:
+1) Go to https://www.kaggle.com/START-UMD/gtd
+2) Download the dataset.
+3) Unpack the .zip-file
+4) rename the dataset to "globalterrorismdb_0718dist.csv"
+5) Include the file in the same folder as the jupyter notebook.
+All other datasets will be included in the submission.
