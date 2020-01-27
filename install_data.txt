@@ -3,5 +3,5 @@ Download terrorism dataset:
 2) Download the dataset.
 3) Unpack the .zip-file
 4) rename the dataset to "globalterrorismdb_0718dist.csv"
-5) Include the file in the same folder as the jupyter notebook.
+5) Include the file in the "Data" folder where the other datasets are.
 All other datasets will be included in the submission.
